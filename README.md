@@ -1,4 +1,12 @@
-## Hi there 👋
+# About Xander
+
+Hello! I'm Xander, a 12-year-old programmer who enjoys building creative projects using Visual Studio Code.  
+I work with multiple languages, including HTML, CSS, JavaScript, Node.js, Batch, AutoHotkey, and more.
+
+I love experimenting, learning new techniques, and turning ideas into real projects—games, tools, simulations, and fun websites.  
+Feel free to explore my work and see what I’m creating next!
+📫 How to reach me: Gmail:xander.razeralbarr@gmail.com
+
 
 <!--
 **Xznder1984/Xznder1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
