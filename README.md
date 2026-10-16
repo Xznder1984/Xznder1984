@@ -1,24 +1,23 @@
-# About Xander
+Hey There!
 
-Hello! I'm Xander, a 12-year-old programmer who enjoys building creative projects using Visual Studio Code.  
-I work with multiple languages, including HTML, CSS, JavaScript, Node.js, Batch, AutoHotkey, and more.
+I am [Xznder](https://Github.com/Xznder1984)
+ (Xander), I am a middle Level programmer that is based in 🇮🇩 indonesia
 
-I love experimenting, learning new techniques, and turning ideas into real projects—games, tools, simulations, and fun websites.  
-Feel free to explore my work and see what I’m creating next!
-📫 How to reach me: Gmail:xander.razeralbarr@gmail.com
+I design and build whatever comes In mind that i think can become revoloutionary
 
+If an idea comes in mind I will build it for my entertainment out out of pure boredom
 
-<!--
-**Xznder1984/Xznder1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my main tech stack is React, Python, Typescript, C, and some kotlin. My favourite tools/apps are spotify, Figma and Obsidian (my notes taking app)
 
-Here are some ideas to get you started:
+I've got some pinned repositories but my most favourite which Im currently working on is [Device Connect](https://github.com/Xznder1984/Device-Connect)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a passion in tech and coding
+
+if you wanna learn coding try learning python through youtube videos and documents
+
+Fun Facts:
+
+* I like cats and music
+* I like tea and Coffee (milk coffee)
+* My favourite song is Backrooms by [ilyTOMMY](https://open.spotify.com/track/5Kjq1JIoYzet8Z0fyonfzP?si=3049b8bafad14677)
+* **Hobbies**: Coding, Gaming, and hanging out with friends
